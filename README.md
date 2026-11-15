@@ -1,3 +1,29 @@
+# agentscope
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Build and run agents you can see, understand and trust.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+构建与运行可观察、可理解、可信赖智能体的框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img
     src="https://img.alicdn.com/imgextra/i1/O1CN01nTg6w21NqT5qFKH1u_!!6000000001621-55-tps-550-550.svg"
